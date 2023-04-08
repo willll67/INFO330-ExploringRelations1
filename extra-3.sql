@@ -1,0 +1,1 @@
+SELECT MAX(age) AS age_max, MIN(age) AS age_min, AVG(age) AS age_avg FROM persons;
